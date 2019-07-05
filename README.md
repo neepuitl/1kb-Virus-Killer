@@ -14,7 +14,7 @@ git clone https://github.com/neepuitl/1kb-Virus-Killer.git
 run.bat
 ```
 
-#### 1.2.2. 点击
+#### 1.2.2. 点击方式
 ![click](docs/images/download-with-click.png)
 
 - 打开网址[`https://github.com/neepuitl/1kb-Virus-Killer`](https://github.com/neepuitl/1kb-Virus-Killer)；
